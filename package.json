@@ -1,0 +1,16 @@
+{
+  "name": "web_watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^1.4.2",
+    "finalhandler": "^0.4.1",
+    "serve-static": "^1.10.2"
+  }
+}
